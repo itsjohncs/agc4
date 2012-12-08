@@ -1,0 +1,6 @@
+﻿<flash_project name="AGCFour" version="1">
+    <project_file path="./Main.fla" filetype="fla" profile="" def_file="true" />
+    <project_file path="./AGC4/AntiGravC4.as" filetype="as" />
+    <project_file path="./SoftFX/FadeFX.as" filetype="as" />
+    <project_file path="./AGC4/WinCombo.as" filetype="as" />
+</flash_project>
